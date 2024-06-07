@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tollanceuniversity/static/css/main.801bd41f.css",
+    "main.js": "/tollanceuniversity/static/js/main.1705117a.js",
+    "static/js/453.a16d2201.chunk.js": "/tollanceuniversity/static/js/453.a16d2201.chunk.js",
+    "static/media/brdc.png": "/tollanceuniversity/static/media/brdc.8910450123635e1dca35.png",
+    "static/media/brdc-2.png": "/tollanceuniversity/static/media/brdc-2.8224b9e438f73879bf41.png",
+    "static/media/breadcrumb-bg.png": "/tollanceuniversity/static/media/breadcrumb-bg.999d2e5e7b8b7c3d7833.png",
+    "static/media/slick.svg": "/tollanceuniversity/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tollanceuniversity/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/tollanceuniversity/index.html",
+    "static/media/slick.ttf": "/tollanceuniversity/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tollanceuniversity/static/media/slick.295183786cd8a1389865.woff",
+    "main.801bd41f.css.map": "/tollanceuniversity/static/css/main.801bd41f.css.map",
+    "main.1705117a.js.map": "/tollanceuniversity/static/js/main.1705117a.js.map",
+    "453.a16d2201.chunk.js.map": "/tollanceuniversity/static/js/453.a16d2201.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801bd41f.css",
+    "static/js/main.1705117a.js"
+  ]
+}
